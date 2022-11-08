@@ -10,19 +10,18 @@ It supports all the basic [[MarkdownDemo|Markdown features]] and some additional
 -   **[[Internal links]]**
 -   **![[Filename]]** to embed notes and other files
 
-[](https://obsidian.md/features#formatting-image)
 ```
 
 ## Tags
-#support
-#tags
+
+#support #tags
 
 ## LaTeX
+
 $$
 \begin{multline}
 \end{multline}
 $$
-
 
 $$\begin{equation}
 x^2 = 1\\
@@ -34,36 +33,37 @@ $$\begin{pmatrix}
 1&0
 \end{pmatrix}$$
 
-
 ## FootNotes
+
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 ## Internal Links
+
 ```md
 Link to a page: [[Embeds]].
 ```
 
 Link to a page: [[Embeds]].
 
-## Embed other files.
+## Embed other files
+
 It is possible to show other files just by add a `!` to its link
+
 ```md
 Embed a page: ![[Embeds]]
 ```
 
 ![[Embeds]]
 
-
 [^1]: meaningful!
 [^bignote]: Here's one with multiple paragraphs and code.
 
-
 ## Tasks
+
 ```md
 - [x] #tags, [links](), **formatting** supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
-- [?] this is also a complete item (works with every character)
 - [ ] this is an incomplete item
 - [ ] tasks can be clicked in Preview to be checked off
 ```
@@ -77,7 +77,7 @@ Embed a page: ![[Embeds]]
 
 ![[Lists]]
 
-## and more ... 
+## and more
+
 - [[Diagrams]]
-- [[Comments]]
 - [[Callouts]]
