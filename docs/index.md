@@ -28,3 +28,9 @@ This gives us the possibility to start adding content with no investment and see
 ### ... but extensible
 
 All the documentation build is based on [MkDocs](https://www.mkdocs.org) which is a well known system with a lot of documentation and easy to expand.
+
+## Final note
+
+If this idea ends up catching your interest it could be interesting to take a look at [Obsidian](https://obsidian.md/)
+
+Obsidian is nothing more than a Mardown editor on steroids that I have been using as a note taking application for some time and that would make Markdown note editting quite simple.
