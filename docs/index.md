@@ -7,6 +7,7 @@ This is a infrastructure proposal to build our own knowledgebase as a team and t
 This is all handled using github and git pages.
 This, as Martin pointed in the meeting, give us all the features that comes with version control as history, traceability, reviews and comments etc.
 It also gives us automatic deploy on each change with git actions.
+[Here](https://github.com/jlojosnegros/knowledge-base-demo) you can take a look at the repo itself.
 
 ## No need to learn new syntax
 
