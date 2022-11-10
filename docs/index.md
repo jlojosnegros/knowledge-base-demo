@@ -5,7 +5,7 @@ This is a infrastructure proposal to build our own knowledgebase as a team and t
 ## Use Github/GitPages
 
 This is all handled using github and git pages.
-This, as Martin pointed in the meeting, give us all the features that comes with version control as history, traceability, reviews and comments etc.
+This give us all the features that comes with version control as history, traceability, reviews and comments etc.
 It also gives us automatic deploy on each change with git actions.
 [Here](https://github.com/jlojosnegros/knowledge-base-demo) you can take a look at the repo itself.
 
@@ -22,7 +22,11 @@ The render can handle all the [[MarkdownDemo|Markdown standar syntax]]
 
 All this repository and the deployment of the server has been obtained with almost zero effort from [this template](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-template)
 
-We also have a "vanilla" server with navigation capabilies ( on left ) a "Table of Content" of each page ( on righ) and a search box, all for free.
+We also have a "vanilla" server with some basic features for free:
+
+- navigation capabilies
+- "Table of Content" for each page ( on righ)
+- search box,
 
 This gives us the possibility to start adding content with no investment and see if this idea could help us.
 
